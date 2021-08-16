@@ -40,4 +40,3 @@ $(document).on('turbolinks:load', function(){
   scroll_bottom();
   /*submit_message();*/
 })
-
